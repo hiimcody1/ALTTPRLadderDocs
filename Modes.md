@@ -127,7 +127,7 @@
 ## Grab Bag
 You will be given one of the following modes, at random:
 
-- [AmbroZ1a](#ambroz1a)
+- [Ambrosia](#ambrosia)
 - [Gold Rush](#gold-rush)
 - [Inverted AD Keys](#inverted-ad-keys)
 - [Ludicrous Speed](#ludicrous-speed)
