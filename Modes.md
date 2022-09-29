@@ -2,10 +2,12 @@
 
 ## Current Modes (excludes tournaments)
 - [Open](#open)
-- [Casual Boots](#casual-boots)
+- [Mystery](#season-131415)
+- [Champions Hunt](#champions-hunt)
 - [Crosskeys](#crosskeys)
+- [Casual Boots](#casual-boots)
 - [Grab Bag](#grab-bag)
-- [Mystery](#season-1314)
+- [AD Keysanity](#ad-keysanity)
 
 ## All Modes
 - [AD Keysanity](#ad-keysanity)
@@ -24,7 +26,7 @@
 - [Invrosia](#invrosia)
 - [Ludicrous Speed](#ludicrous-speed)
 - [MC Shuffle](#mc-shuffle)
-- [Mystery](#season-1314)
+- [Mystery](#season-131415)
 - [Open](#open)
 - [Open Boots](#open-boots)
 - [Open Keysanity](#open-keysanity)
@@ -125,16 +127,16 @@
 ## Grab Bag
 You will be given one of the following modes, at random:
 
-- [AD Keysanity](#ad-keysanity)
 - [AmbroZ1a](#ambroz1a)
-- [Champions Swordless](#champions-swordless)
-- [Enemizer](#enemizer)
-- [Hard Standard](#hard-standard)
-- [Invrosia](#invrosia)
+- [Gold Rush](#gold-rush)
+- [Inverted AD Keys](#inverted-ad-keys)
 - [Ludicrous Speed](#ludicrous-speed)
-- [MC Shuffle](#mc-shuffle)
-- [Open Boots](#open-boots)
-- [SGL Casual Boots](#sgl-casual-boots)
+- [Open Keysanity](#open-keysanity)
+- [Open Plus](#open-plus)
+- [Potpourri](#potpourri)
+- [Retrance](#retrance)
+- [Reduced Crystals](#reduced-crystals)
+- [Standard](#standard)
 
 ## Hard Standard
 
@@ -502,7 +504,7 @@ You will be given one of the following modes, at random:
   | Mirror | No 80 - Yes 20  |
 </p></details>
 
-## Season 13,14:
+## Season 13,14,15:
 
 [Moving forward from this season, tables signficantly change and thus are not cleaned up fully right now]
 
