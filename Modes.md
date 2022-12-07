@@ -1,13 +1,13 @@
 # ALTTPR Ladder Mode Definitions
 
 ## Current Modes (excludes tournaments)
+- [Standard](#standard)
+- [Mystery](#season-13141516)
 - [Open](#open)
-- [Mystery](#season-131415)
-- [Champions Hunt](#champions-hunt)
 - [Crosskeys](#crosskeys)
 - [Casual Boots](#casual-boots)
 - [Grab Bag](#grab-bag)
-- [AD Keysanity](#ad-keysanity)
+- [Insanity Entrance](#insanity-entrance)
 
 ## All Modes
 - [AD Keysanity](#ad-keysanity)
@@ -20,13 +20,14 @@
 - [Gold Rush](#gold-rush)
 - [Grab Bag](#grab-bag)
 - [Hard Standard](#hard-standard)
+- [Insanity Entrance](#insanity-entrance)
 - [Inverted AD Keys](#inverted-ad-keys)
 - [Inverted Crosskeys](#inverted-crosskeys)
 - [Inverted Keysanity](#inverted-keysanity)
 - [Invrosia](#invrosia)
 - [Ludicrous Speed](#ludicrous-speed)
 - [MC Shuffle](#mc-shuffle)
-- [Mystery](#season-131415)
+- [Mystery](#season-13141516)
 - [Open](#open)
 - [Open Boots](#open-boots)
 - [Open Keysanity](#open-keysanity)
@@ -127,16 +128,16 @@
 ## Grab Bag
 You will be given one of the following modes, at random:
 
+- [AD Keysanity](#ad-keysanity)
 - [Ambrosia](#ambrosia)
+- [AmbroZ1a](#ambroz1a)
+- [Champions Hunt](#champions-hunt)
 - [Gold Rush](#gold-rush)
-- [Inverted AD Keys](#inverted-ad-keys)
-- [Ludicrous Speed](#ludicrous-speed)
-- [Open Keysanity](#open-keysanity)
-- [Open Plus](#open-plus)
+- [Inverted Keysanity](#inverted-keysanity)
+- [Invrosia](#invrosia)
+- [Open Boots](#open-boots)
 - [Potpourri](#potpourri)
 - [Retrance](#retrance)
-- [Reduced Crystals](#reduced-crystals)
-- [Standard](#standard)
 
 ## Hard Standard
 
@@ -318,6 +319,16 @@ You will be given one of the following modes, at random:
   | **Swords**        | Assured                          |
   | **Starting Items**| Boots                            |
   | **Notes**         | Triforce pieces are located in GT Basement (Not in GT Big Chest), Pedestal, Pyramid Fairy (Left chest) |
+
+## Insanity Entrance
+
+  | Settings Flag     | Value          |
+  | ---:              | :---           |
+  | **Mode**          | Open           |
+  | **Entrances**     | Crossed, Entrances and Exits decoupled     |
+  | **Goal**          | Fast Ganon     |
+  | **Dungeon Items** | Full Shuffle   |
+  | **Swords**        | Randomized     |
 
 # Mystery Weights
 
@@ -504,7 +515,7 @@ You will be given one of the following modes, at random:
   | Mirror | No 80 - Yes 20  |
 </p></details>
 
-## Season 13,14,15:
+## Season 13,14,15,16:
 
 [Moving forward from this season, tables signficantly change and thus are not cleaned up fully right now]
 
